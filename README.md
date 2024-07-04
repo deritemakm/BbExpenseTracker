@@ -6,10 +6,10 @@ The BB Expense Tracker is a Java-coded program with a user-friendly GUI that all
 ## Features
 
 - **Login and Sign Up**: Secure authentication system for users to create accounts and log in.
-- **Home**: Includes the functionality to add a budget for the week.
+- **Home**: Includes the functionality to add a budget for the week and determine if the user saved money or not.
 - **Add Expense**: Allows users to add daily expenses by category, date, and amount.
-- **Transaction List Page**: Displays all the expenses.
-- **Expense List Page**: Provides sorting options to organize the expense list.
+- **Expenses List Page**: Displays all the expenses.
+- **Sort your expenses Page**: Provides sorting options to organize the expense list.
 - **Delete All Expenses**: A button that allows users to delete all the expenses at once.
 
 ## JCalendar Integration
