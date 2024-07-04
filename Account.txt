@@ -1,0 +1,20 @@
+------------User Account 1----------------
+Full Name: Wilmer Navarro
+Username: wilmer123
+Password: 123
+
+------------User Account 2----------------
+Full Name: Mikaella Gonzales
+Username: mika
+Password: 12345
+
+------------User Account 3----------------
+Full Name: Mikaella Gonzales
+Username: akimi
+Password: 12345
+
+------------User Account 4----------------
+Full Name: Wilmer Navarro
+Username: wilmer
+Password: 111
+
