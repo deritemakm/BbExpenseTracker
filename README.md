@@ -82,7 +82,10 @@ The BB Expense Tracker application should now launch, and you can interact with 
 - [Java SE 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 
 ## Author
-- **Your Name** - *Initial work* - [Your GitHub Profile](https://github.com/yourusername)
+- Gonzales, Mikaella N.
+- Alcaraz Jr., Leo D.
+- Landa, James Tristan S.
+- Navarro, Wilmer B.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
