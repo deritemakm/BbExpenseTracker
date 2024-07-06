@@ -1,7 +1,3 @@
-Certainly! Here's the complete README for the BB Expense Tracker project, including all sections:
-
----
-
 # BB Expense Tracker Project
 
 ## Description
@@ -51,6 +47,7 @@ Before you begin, ensure you have the following software installed on your machi
 
 1. Download the JCalendar library from [this link](https://toedter.com/jcalendar/) or use the direct link provided in the README file.
 2. Extract the downloaded ZIP file to a location on your computer.
+3. Video Reference: [this link](https://www.youtube.com/watch?v=robcQaF-jfM)
 
 ### Step 5: Import JCalendar into NetBeans
 
@@ -100,6 +97,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - NetBeans IDE
 - Oracle JDK
 
----
-
-This README provides comprehensive instructions for installing, setting up, and running the BB Expense Tracker project, along with troubleshooting tips and additional resources for further assistance.
