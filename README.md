@@ -1,21 +1,25 @@
+Certainly! Here's the complete README for the BB Expense Tracker project, including all sections:
+
+---
+
 # BB Expense Tracker Project
 
 ## Description
+
 The BB Expense Tracker is a Java-coded program with a user-friendly GUI that allows students to enter their expenses by category, date, and amount. These entries are stored in a list sorted by date. The program uses bubble sort to automatically organize the expenses in ascending or descending order. By comparing adjacent elements, bubble sort illustrates the daily spending patterns of students, offering insights into their purchase habits and identifying areas for improvement. The BB Expense Tracker also provides a clear monthly breakdown of expenses, helping students better understand their financial habits.
 
 ## Features
 
-- **Login and Sign Up**: Secure authentication system for users to create accounts and log in.
-- **Home**: Includes the functionality to add a budget for the week and determine if the user saved money or not.
-- **Add Expense**: Allows users to add daily expenses by category, date, and amount.
-- **Expenses List Page**: Displays all the expenses.
-- **Sort your expenses Page**: Provides sorting options to organize the expense list.
-- **Delete All Expenses**: A button that allows users to delete all the expenses at once.
-
-## JCalendar Integration
-The BB Expense Tracker project includes JCalendar integration, enhancing the user experience by providing a graphical calendar interface for selecting and displaying dates within the application.
+- **Login and Sign Up:** Secure authentication system for users to create accounts and log in.
+- **Home:** Functionality to add a budget for the week and determine if the user saved money or not.
+- **Add Expense:** Allows users to add daily expenses by category, date, and amount.
+- **Expenses List Page:** Displays all the entered expenses.
+- **Sort Your Expenses Page:** Provides sorting options to organize the expense list.
+- **Delete All Expenses:** A button that allows users to delete all the entered expenses at once.
+- **JCalendar Integration:** Includes a graphical calendar interface for selecting and displaying dates within the application.
 
 ## Prerequisites
+
 Before you begin, ensure you have the following software installed on your machine:
 
 - NetBeans IDE 8.2
@@ -24,49 +28,48 @@ Before you begin, ensure you have the following software installed on your machi
 ## Installation and Setup
 
 ### Step 1: Download and Install NetBeans IDE 8.2
-1. Visit the official [NetBeans download page](https://netbeans.apache.org/download/archive/index.html).
+
+1. Visit the [official NetBeans download page](https://netbeans.apache.org/download/index.html).
 2. Download the installer for NetBeans IDE 8.2.
 3. Run the installer and follow the on-screen instructions to complete the installation.
 
 ### Step 2: Download and Install JDK 1.8.0_111
+
 1. Visit the [Oracle JDK Archive](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html).
 2. Locate and download JDK 1.8.0_111.
 3. Run the installer and follow the on-screen instructions to complete the installation.
 
 ### Step 3: Configure NetBeans to Use JDK 1.8.0_111
+
 1. Open NetBeans IDE.
 2. Go to `Tools > Java Platforms`.
 3. Click on `Add Platform`.
 4. Browse to the installation directory of JDK 1.8.0_111 and select it.
 5. Click `Next` and then `Finish`.
 
+### Step 4: Download and Import JCalendar
+
+1. Download the JCalendar library from [this link](https://toedter.com/jcalendar/) or use the direct link provided in the README file.
+2. Extract the downloaded ZIP file to a location on your computer.
+
+### Step 5: Import JCalendar into NetBeans
+
+1. In NetBeans IDE, right-click on the `Libraries` folder of your project in the Projects window.
+2. Select `Add JAR/Folder...` from the context menu.
+3. Navigate to the location where you extracted the JCalendar library files.
+4. Select the JAR file (e.g., `jcalendar-1.4.jar`) and click `Open`.
+5. Click `OK` to add the JCalendar library to your project.
+
 ## Running the Project
 
-### Step 1: Clone or Download the BB Expense Tracker Project
-1. Clone the BB Expense Tracker repository from your version control system (e.g., GitHub) using the command:
-   ```
-   git clone https://github.com/yourusername/BBExpenseTracker.git
-   ```
-   Alternatively, download the project as a ZIP file and extract it to your desired directory.
-
-### Step 2: Open the Project in NetBeans
-1. Launch NetBeans IDE.
-2. Go to `File > Open Project`.
-3. Navigate to the directory where the BB Expense Tracker project is located.
-4. Select the project folder and click `Open Project`.
-
-### Step 3: Build and Run the Project
-1. In the Projects window, right-click on the BB Expense Tracker project.
-2. Select `Clean and Build`.
-3. After the build process is complete, right-click on the project again.
-4. Select `Run`.
-
-The BB Expense Tracker application should now launch, and you can interact with the GUI to manage your expenses.
+1. Clone or download the BB Expense Tracker project from your repository.
+2. Open the project in NetBeans IDE.
+3. Build and run the project to launch the BB Expense Tracker application.
 
 ## Troubleshooting
 
 - **Issue: NetBeans cannot find JDK 1.8.0_111**
-  - Ensure that the JDK is properly installed and that you have correctly added it to the NetBeans Java Platforms.
+  - Ensure that the JDK is properly installed and added to the NetBeans Java Platforms.
 
 - **Issue: Project fails to build**
   - Check the Output window in NetBeans for any error messages.
@@ -78,19 +81,25 @@ The BB Expense Tracker application should now launch, and you can interact with 
 
 ## Additional Resources
 
-- [NetBeans Documentation](https://netbeans.apache.org/kb/docs/)
+- [NetBeans Documentation](https://netbeans.apache.org/kb/index.html)
 - [Java SE 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 
 ## Author
+
 - Gonzales, Mikaella N.
 - Alcaraz Jr., Leo D.
 - Landa, James Tristan S.
 - Navarro, Wilmer B.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-- [NetBeans IDE](https://netbeans.apache.org/)
-- [Oracle JDK](https://www.oracle.com/java/)
 
+- NetBeans IDE
+- Oracle JDK
+
+---
+
+This README provides comprehensive instructions for installing, setting up, and running the BB Expense Tracker project, along with troubleshooting tips and additional resources for further assistance.
