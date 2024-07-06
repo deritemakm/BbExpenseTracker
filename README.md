@@ -2,7 +2,7 @@
 
 ## Description
 
-The BB Expense Tracker is a Java-coded program with a user-friendly GUI that allows students to enter their expenses by category, date, and amount. These entries are stored in a list sorted by date. The program uses bubble sort to automatically organize the expenses in ascending or descending order. By comparing adjacent elements, bubble sort illustrates the daily spending patterns of students, offering insights into their purchase habits and identifying areas for improvement. The BB Expense Tracker also provides a clear monthly breakdown of expenses, helping students better understand their financial habits.
+The BB Expense Tracker is a Java-coded program with a user-friendly GUI that allows students to enter their expenses by category, date, and amount. These entries are stored in a list sorted by date. The program uses bubble sort to automatically organize the expenses in ascending or descending order. By comparing adjacent elements, bubble sort illustrates the daily spending patterns of students, offering insights into their purchase habits and identifying areas for improvement. The BB Expense Tracker also provides a breakdown of expenses, helping students better understand their financial habits.
 
 ## Features
 
