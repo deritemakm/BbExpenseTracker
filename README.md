@@ -6,7 +6,7 @@ The BB Expense Tracker is a Java-coded program with a user-friendly GUI that all
 
 ## Features
 
-- **Login and Sign Up:** Secure authentication system for users to create accounts and log in.
+- **Login and Sign Up:** Authentication system for users to create accounts and log in.
 - **Home:** Functionality to add a budget for the week and determine if the user saved money or not.
 - **Add Expense:** Allows users to add daily expenses by category, date, and amount.
 - **Expenses List Page:** Displays all the entered expenses.
